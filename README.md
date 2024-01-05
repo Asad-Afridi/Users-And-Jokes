@@ -1,1 +1,2 @@
 # Users-And-Jokes
+This a mini project based on API calls and DOM manipulation. Three APIs are used in this project i.e. https://randomuser.me/api/ (for random users generator), https://official-joke-api.appspot.com/random_joke (for random jokes generator) and https://www.boredapi.com/api/activity (for random activity generator). There will be diiferent random users their activities and favourite jokes. A button "Login" will have to be pressed to call these APIs. You have to wait upto 3 sec to get the response in the DOM. 
